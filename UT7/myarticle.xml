@@ -4,7 +4,7 @@
     xmlns="http://docbook.org/ns/docbook"
 	xml:id="sample"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://docbook.org/ns/docbook ../schema/xsd/5.0/docbook.xsd">
+	xsi:schemaLocation="http://docbook.org/ns/docbook ../xml/docbook/schema/xsd/5.0/docbook.xsd">
 	
 	<title>Sample Article</title>
 	

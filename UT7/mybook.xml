@@ -4,7 +4,7 @@
     xmlns="http://docbook.org/ns/docbook"
 	xml:id="ejemplo"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://docbook.org/ns/docbook ../schema/xsd/5.0/docbook.xsd">
+	xsi:schemaLocation="http://docbook.org/ns/docbook ../xml/docbook/schema/xsd/5.0/docbook.xsd">
 
 	<info>
 	  <title>Primeros pasos con DocBook</title>
